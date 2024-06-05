@@ -1,1 +1,7 @@
-# user-interfaces-3
+# user-interfaces-kpi-3
+
+Тегза Денис Іванович, КВ-31мн.
+Розробка мобільного додатка з REST API.
+Загальне завдання: розробити мобільний додаток з можливістю з’єднання з серверним додатком з лабораторної роботи №1 дисципліни Технологія розробки Web-додатків.
+URL (посилання) на документ звіту на Google Drive:
+https://docs.google.com/document/d/1HFMmnMI6O_xftnrCjX0RypzjBMop_SO8373hZx72JJ4/edit
